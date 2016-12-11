@@ -1,0 +1,16 @@
+{
+  "name": "spinal",
+  "version": "1.0.0",
+  "description": "polymer report dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "Polymer": "^1.6.1--",
+    "npm-polymer-elements": "0.0.1",
+    "webpack": "^1.14.0"
+  }
+}
